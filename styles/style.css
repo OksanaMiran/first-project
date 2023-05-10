@@ -618,7 +618,7 @@ img {
     }
 
     .inform_block .text_block {
-        max-width: 520px;
+        /* max-width: 520px; */
         margin: 0 auto 30px;
         text-align: center;
     }
@@ -656,7 +656,7 @@ img {
 
     .capabilities_cards {
         flex-wrap: wrap;
-        max-width: 520px;
+        /* max-width: 520px; */
         margin: 0 auto;
     }
 
@@ -694,7 +694,7 @@ img {
 
     .footer_block {
         display: block;
-        max-width: 520px;
+        /* max-width: 520px; */
     }
 
     .footer_block h2 {
